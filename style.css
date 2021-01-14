@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(43, 26, 90);
+}
+.body-text {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+p.caption {
+  width: 50%;
+  text-align: center;
+  color: darkorange;
+}
+
+h1 {
+  text-align: center;
+  color: magenta;
+}
+
+h2 {
+  text-align: center;
+  color: mediumspringgreen;
+}
